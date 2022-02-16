@@ -12,11 +12,13 @@
     "@tailwindcss/forms": "^0.4.0",
     "firebase": "^9.6.6",
     "minifaker": "^1.34.0",
+    "moment": "^2.29.1",
     "next": "12.0.9",
     "next-auth": "^4.2.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-modal": "^3.14.4",
+    "react-moment": "^1.1.1",
     "recoil": "^0.6.1"
   },
   "devDependencies": {
